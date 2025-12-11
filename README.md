@@ -1,3 +1,7 @@
 # curso_python_gg
 
-#teste 1
+Aulas assistidas:
+- Aula 1
+- Aula 2
+- Aula 3
+- Aula 4
