@@ -1,4 +1,5 @@
-print('Informe dois números.')
-n1 = input('Primeiro número: ')
-n2 = input('Segundo número: ')
-print('A soma entre esses dois números é', int(n1) + int(n2))
+print('INFORME DOIS NÚMEROS')
+n1 = int(input('Primeiro número: '))
+n2 = int(input('Segundo número: '))
+s = n1 + n2
+print('A soma entre {} e {} vale {}'.format(n1, n2, s))
